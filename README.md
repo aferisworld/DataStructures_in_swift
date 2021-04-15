@@ -1,2 +1,6 @@
-# DataStructures_in_swift
+# DataStructures in Swift
 Implementing Data Structures in swift
+
+* Stack
+* Queue
+* Tree
